@@ -15,13 +15,15 @@ Our experiments use 3 datasets of textual posts, each one manually labeled with 
 - **sens**: the post contains a content that is sensitive for the privacy;
 - **ns**: the post does not contain any content that is sensitive for the privacy.
 
-The details of the three datasets ae the following:
+The details of the three datasets are the following:
 
 *Dataset*|*# posts*|*# sens*|*# ns*|*Avg # words*
 ---------|---------|--------|------|-------------
 SENS2|8 765|3 336|5 429|15.11±12.58
 SENS3|4 046|1 444|2 602|15.40±12.67
 WH+TW|8 765|3 336|5 429|13.08±8.26
+
+Datasets are available on request.
 
 ## Details of the code
 
@@ -31,7 +33,7 @@ The experiments have been performed using several python files and jupyter noteb
 - [jupyter](http://jupyter.org/) (tested on 1.0.0)
 - [numpy](https://numpy.org/) (tested on 1.18.1)
 - [pandas](https://pandas.pydata.org/) (tested on 1.0.1)
-- [matplotlib](http://matplotlib.org/) (tested on ???)
+- [matplotlib](http://matplotlib.org/) (tested on 3.1.3)
 - [seaborn](https://seaborn.pydata.org/) (tested on 0.11.1)
 - [nltk](https://www.nltk.org/) (tested on 3.4.5)
 - [scikit-learn](https://scikit-learn.org/) (tested on 0.22.1)
