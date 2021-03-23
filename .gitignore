@@ -1,0 +1,6 @@
+# Local directories
+data/
+draft/
+
+# Jupyter Notebook
+.ipynb_checkpoints
