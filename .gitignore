@@ -1,6 +1,7 @@
 # Local directories
 data/
 draft/
+lib/__pycache__
 
 # Jupyter Notebook
 .ipynb_checkpoints
