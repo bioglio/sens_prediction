@@ -3,7 +3,7 @@
 
 This is the code for reproducing the results of the paper:
 
-> _Direct Content Sensitivity Analysis and Prediction_ by Livio Bioglio and Ruggero G. Pensa
+> _Analysis and classification of privacy-sensitive content in social media posts_ by Livio Bioglio and Ruggero G. Pensa (more details [here](#how-to-cite))
 
 ## Abstract
 
