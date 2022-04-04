@@ -95,11 +95,9 @@ The code in `06 - [Sens] Clean test sets from training data.ipynb` tests the RNN
 ## How to Cite
 
 Please cite the following paper:
-```
-@article{NONE
-}
 
-```
+Bioglio, L., Pensa, R.G. **Analysis and classification of privacy-sensitive content in social media posts**. *EPJ Data Sci.* 11, 12 (2022). https://doi.org/10.1140/epjds/s13688-022-00324-y
+
 
 
 
